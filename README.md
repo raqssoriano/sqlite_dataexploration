@@ -3,7 +3,7 @@
 
 This task involves selecting a publicly available healthcare dataset, loading it into a local SQLite database, and performing various SQL queries to analyze the data. By utilizing the power of SQLite and pandas, this allowed me to explore and practice by selecting, counting, grouping, and sorting the available dataset of my choice.
 
-My Chosen Healthcare Dataset: [Mental Health Data](/Users/raqsmacbookair/python/sqlite_dataexploration/mental_health_data.csv)
+My Chosen Healthcare Dataset: [Mental Health Data](https://www.kaggle.com/datasets/anweshaghosh123/mental-health-synthetic-data)
 
 *Note:* Synthetic Data ⇧
 
