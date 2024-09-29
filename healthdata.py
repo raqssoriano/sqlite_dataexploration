@@ -89,7 +89,7 @@ print(result_df)
 conn.close()
 
 
-# (4) Sorted by "Duration (weeks)"" which shows the top 5 records with the highest duration.
+# (4) Sorted by "Duration (weeks)"" which shows the top 10 records with the highest duration.
 
 healthquery4 = "SELECT * FROM health_data ORDER BY `Duration (weeks)` DESC LIMIT 10"
 

@@ -20,11 +20,11 @@ My Chosen Healthcare Dataset: [Mental Health Data](/Users/raqsmacbookair/python/
     - (1) Selected all records based on specific “Symptoms.”
     - (2) Filtered records based on “Symptoms” having “Trouble Sleeping” by “Gender (Male)."
     - (3) Grouped records by “Diagnosis/Condition” and calculated the average “Age.”
-    - (4) Sorted records by “Duration (weeks)” to show the top 5 records with the highest duration.
+    - (4) Sorted records by “Duration (weeks)” to show the top 10 records with the highest duration.
 
 # My Key Takeaways from this Assignment
 
-### - 📌 Problem-solving, Humility, and Collaboration
+### - 📌 Problem-Solving, Humility, and Collaboration
 - By asking for help from my classmate and professor when I encountered issues in this assignment, I believe it demonstrated my problem-solving skills.
 - Recognizing that I need assistance and being open to learning from others are key aspects of staying humble and grounded.
 - Collaborating with others can be crucial in overcoming technical skills, particularly for a beginner like me.
