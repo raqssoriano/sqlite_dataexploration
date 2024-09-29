@@ -14,6 +14,7 @@ My Chosen Healthcare Dataset: [Mental Health Data](/Users/raqsmacbookair/python/
 
 2. Setting Up a Local SQLite Database
     - 📌 I used pandas to load my dataset into the SQLite database.
+        - I keep getting errors due to the values of my data. However, I found that I missed entering some values for some of the chosen data/columns.
 
 3. Performing SQL Queries to Explore and Analyze the Data
     - (1) Selected all records based on specific “Symptoms.”
@@ -24,15 +25,15 @@ My Chosen Healthcare Dataset: [Mental Health Data](/Users/raqsmacbookair/python/
 # My Key Takeaways from this Assignment
 
 ### 📌 Problem-solving, Humility, and Collaboration
-        - By asking for help from my classmate and professor when I encountered issues in this assignment, I believe it demonstrated my problem-solving skills.
-        - Recognizing that I need assistance and being open to learning from others are key aspects of staying humble and grounded.
-        - Collaborating with others can be crucial in overcoming technical skills, particularly for a beginner like me.
+    - By asking for help from my classmate and professor when I encountered issues in this assignment, I believe it demonstrated my problem-solving skills.
+    - Recognizing that I need assistance and being open to learning from others are key aspects of staying humble and grounded.
+    - Collaborating with others can be crucial in overcoming technical skills, particularly for a beginner like me.
 
 ### 📌 Attention to Detail
-        - The importance of paying attention to small details such as the correct commands for the installation packages `pip install pandas`, can prevent significant roadblocks.
+    - The importance of paying attention to small details such as the correct commands for the installation packages `pip install pandas`, can prevent significant roadblocks.
 
 ### 📌 Data Handling and Analysis
-        - I was able to practice loading data into a database and performing several `SQL` queries, which are fundamental skills in data analysis. I still find it difficult, but like what professor said "Practice makes perfect."
+    - I was able to practice loading data into a database and performing several `SQL` queries, which are fundamental skills in data analysis. I still find it difficult, but like what professor said "Practice makes perfect."
 
 ### 📌 Learning from My Mistakes
-        - Encountering and resolving errors is a critical part of my learning process. Each mistake provides a learning opportunity for me that can improve my future assignments and work.
+    - Encountering and resolving errors is a critical part of my learning process. Each mistake provides a learning opportunity for me that can improve my future assignments and work.
